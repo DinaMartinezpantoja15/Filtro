@@ -1,0 +1,6 @@
+@Filtro_HostAddress = http://localhost:5172
+
+GET {{Filtro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
